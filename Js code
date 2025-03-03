@@ -1,0 +1,29 @@
+JavaScript Only Code (index.js)
+
+// Define the add function in JavaScript
+function add(x, y) {
+    return x + y;
+}
+
+// Call the function and log the result
+console.log("Result of 5 + 7:", add(5, 7)); // Output: 12
+
+HTML File (index.html)
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaScript Example</title>
+</head>
+<body>
+    <h1>JavaScript Example</h1>
+    <script src="index.js"></script>
+</body>
+</html>
+
+How to Run
+1. Save index.js and index.html in the same directory.
+2. Open index.html in a web browser.
+3. Open the browser console (F12 > Console) to see the output:
