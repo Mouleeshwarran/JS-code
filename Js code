@@ -6,7 +6,7 @@ function add(x, y) {
 }
 
 // Call the function and log the result
-console.log("Result of 5 + 7:", add(5, 7)); // Output: 12
+document.write("Result of 5 + 7:", add(5, 7)); // Output: 12
 
 HTML File (index.html)
 
